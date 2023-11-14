@@ -34,11 +34,19 @@ The project is organized into the following sections:
     Import the database schema from the database/db_healthcare.sql file.
 4.Open your web browser and navigate to:
   ```bash
-    http://localhost/doctor-appointment-system/
+    http://localhost/Doctor_Appointment_Booking_System(DABS)/
 ```
 ## Admin Login Details
 
 - **Login ID:** 123
 - **Password:** 123
+
+## User Interface
+![image](https://github.com/architanand95/D_A_B_S/assets/106612899/7fe5d99f-6e75-4287-98cc-e1505db7250b)
+![image](https://github.com/architanand95/D_A_B_S/assets/106612899/8cb9ac1c-29cb-4f81-8fcb-0b39502df05d)
+![image](https://github.com/architanand95/D_A_B_S/assets/106612899/7f209e09-ea41-4265-b6ca-62ccb94f4e0d)
+![image](https://github.com/architanand95/D_A_B_S/assets/106612899/d15ace81-2875-4430-b69b-3e1d7286abcc)
+![Screenshot 2023-11-14 221455](https://github.com/architanand95/D_A_B_S/assets/106612899/7bb8ebc9-d0d1-403a-959c-77212bfb3e10)
+
 
 
