@@ -27,7 +27,7 @@ The project is organized into the following sections:
 
 1. Clone the Git repository.
    ```bash
-   git clone https://github.com/yourusername/doctor-appointment-system.git
+   git clone https://github.com/architanand95/D_A_B_S.git
 2.Database Configuration:
     Open phpMyAdmin.
 3.Create a database named db_healthcare.
