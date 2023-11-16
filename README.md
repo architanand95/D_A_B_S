@@ -28,14 +28,25 @@ The project is organized into the following sections:
 1. Clone the Git repository.
    ```bash
    git clone https://github.com/architanand95/D_A_B_S.git
-2.Database Configuration:
+2. Database Configuration:
     Open phpMyAdmin.
-3.Create a database named db_healthcare.
-    Import the database schema from the database/db_healthcare.sql file.
-4.Open your web browser and navigate to:
+3. Create a database named db_healthcare.
+    Import the database schema from the db_healthcare.sql file(from the dataset directory)
+4. Open your web browser and navigate to:
   ```bash
     http://localhost/Doctor_Appointment_Booking_System(DABS)/
 ```
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for improvement, additional classifiers, or better ensemble methods, please open an issue or submit a pull request.
+
+Special thanks to the following contributors:
+- [Ayushmaan Singh Nikumbh](https://github.com/commie1)
+- [Ayush Sisodiya](https://github.com/ASR0228)
+- [Vaani bansal](https://github.com/dinosaur21)
+
+  
 ## Admin Login Details
 
 - **Login ID:** 123
