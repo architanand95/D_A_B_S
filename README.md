@@ -1,27 +1,57 @@
-# Doctor's Appointment Booking System
 
-This project is a web-based doctor's appointment booking system that allows users to schedule appointments with doctors. The system is built using a combination of front-end and back-end technologies, creating a responsive and user-friendly interface.
+# Doctor Appointment Booking System
 
-## Technology Stack
+This is a Simple web project that made for e-channeling Using PHP,HTML & CSS.
+This project helps a certain medical establishment such as a clinic or a hospital clients/patients to request an appointment with a doctor online. This project can also help doctors to manage the schedules of their appointments with their patients. This doctor's appointment system will organize the schedules of each patient's appointment, which will be submitted as a request to the doctor they have selected. The system has 3 sides which are the administrator, the doctor, and the patient. The system admin will populate the list of the doctors with their specialties and along with the doctor's details and system credentials. The patients will browse the doctor's appointment system website to find a doctor that has the specialty of their needs. The patient can check the doctor's weekly schedule to help them to choose the day and time which they can comply for the appointment and they will submit their request for an appointment. After that, the doctors can view all their appointments and the appointment request of the patients for their availability.
 
-### Front-end:
-- **HTML:** Used to create and structure web documents.
-- **CSS:** Provides styling to create an attractive layout.
-- **Bootstrap:** Employed for a responsive design, ensuring the site is mobile-friendly.
-- **JavaScript:** A programming language utilized for dynamic functionality, commonly used with web browsers.
 
-### Back-end:
-- **PHP:** Hypertext Preprocessor, enabling the creation of dynamically generated web pages.
-- **MySQL:** A relational database management system used for data access, querying, and management.
+## Features
 
-## Directory Structure
+### Admin
+  
+  - Admin can add doctors,edit doctors, delete doctors    
+ - Schedule new doctors sessions,remove sessions   
+- View patients details    
+ - View booking of patients    
+    
+    
+ 
+ 
+### Doctors
 
-The project is organized into the following sections:
+- View their Appointment
+- View their scheduled sessions
+- View details of patients
+- Delete account    
+- Eedit account settings
+    
 
-- **assets:** Contains general assets shared across different sections.
-- **database:** Includes SQL files for database creation and manipulation.
-- **doctor:** Files related to the doctor section, including CSS, images, and other Bootstrap files.
-- **patient:** Files related to the patient section, including CSS, images, and other Bootstrap files.
+    
+### Patiens(Clients)
+  
+
+  - Make appointment online
+  - Create accounts themslves
+  - View their old booking
+  - Delete account
+  - Edit account settings    
+
+    
+| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
+| -------| -------| -------|
+| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
+| Password: `123` |  Password: `123` |  Password: `123` |
+| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(6).png)  |
+
+ 
+  
+-----------------------------------------------
+## Front-end interface
+
+| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(2).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(4).png)|
+|--------------| --------------|   --------------|  --------------|    
+|  ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(5).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(6).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(7).png)| ![](https://github.com/architanand95/D_A_B_S/blob/main/Screenshots/Screenshot%20(8).png)|
+
 
 ## Installation
 
@@ -47,17 +77,4 @@ Special thanks to the following contributors:
 - [Vaani bansal](https://github.com/dinosaur21)
 
   
-## Admin Login Details
-
-- **Login ID:** 123
-- **Password:** 123
-
-## User Interface
-![image](https://github.com/architanand95/D_A_B_S/assets/106612899/7fe5d99f-6e75-4287-98cc-e1505db7250b)
-![image](https://github.com/architanand95/D_A_B_S/assets/106612899/8cb9ac1c-29cb-4f81-8fcb-0b39502df05d)
-![image](https://github.com/architanand95/D_A_B_S/assets/106612899/7f209e09-ea41-4265-b6ca-62ccb94f4e0d)
-![image](https://github.com/architanand95/D_A_B_S/assets/106612899/d15ace81-2875-4430-b69b-3e1d7286abcc)
-![Screenshot 2023-11-14 221455](https://github.com/architanand95/D_A_B_S/assets/106612899/7bb8ebc9-d0d1-403a-959c-77212bfb3e10)
-
-
 
